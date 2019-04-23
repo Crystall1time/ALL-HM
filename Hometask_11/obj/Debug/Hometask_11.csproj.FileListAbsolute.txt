@@ -1,0 +1,9 @@
+D:\C#\Academy\DZ_11\Hometask_11\Hometask_11\bin\Debug\Hometask_11.exe.config
+D:\C#\Academy\DZ_11\Hometask_11\Hometask_11\bin\Debug\Hometask_11.exe
+D:\C#\Academy\DZ_11\Hometask_11\Hometask_11\bin\Debug\Hometask_11.pdb
+D:\C#\Academy\DZ_11\Hometask_11\Hometask_11\bin\Debug\log4net.dll
+D:\C#\Academy\DZ_11\Hometask_11\Hometask_11\obj\Debug\Hometask_11.csprojAssemblyReference.cache
+D:\C#\Academy\DZ_11\Hometask_11\Hometask_11\obj\Debug\Hometask_11.csproj.CoreCompileInputs.cache
+D:\C#\Academy\DZ_11\Hometask_11\Hometask_11\obj\Debug\Hometask_11.csproj.CopyComplete
+D:\C#\Academy\DZ_11\Hometask_11\Hometask_11\obj\Debug\Hometask_11.exe
+D:\C#\Academy\DZ_11\Hometask_11\Hometask_11\obj\Debug\Hometask_11.pdb
